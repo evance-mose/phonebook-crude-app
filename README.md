@@ -1,13 +1,9 @@
-# example-fastapi
-Example of eventsourcing with FastAPI
+#fastapi
 
 ## Getting Started
    python3 –m venv venv
    source venv/bin/activate
 
-```zsh
-pip install -r requirements.txt
-```
 2. Start FastAPI process
 ```zsh
 python main.py
